@@ -1,0 +1,15 @@
+C:\Users\Kim Nghi\source\repos\DOAN-HotelManagenemt\HotelManagement.BUS\bin\Debug\HotelManagement.BUS.dll.config
+C:\Users\Kim Nghi\source\repos\DOAN-HotelManagenemt\HotelManagement.BUS\bin\Debug\HotelManagement.BUS.dll
+C:\Users\Kim Nghi\source\repos\DOAN-HotelManagenemt\HotelManagement.BUS\bin\Debug\HotelManagement.BUS.pdb
+C:\Users\Kim Nghi\source\repos\DOAN-HotelManagenemt\HotelManagement.BUS\bin\Debug\EntityFramework.dll
+C:\Users\Kim Nghi\source\repos\DOAN-HotelManagenemt\HotelManagement.BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kim Nghi\source\repos\DOAN-HotelManagenemt\HotelManagement.BUS\bin\Debug\HotelManagement.DAL.dll
+C:\Users\Kim Nghi\source\repos\DOAN-HotelManagenemt\HotelManagement.BUS\bin\Debug\HotelManagement.DAL.pdb
+C:\Users\Kim Nghi\source\repos\DOAN-HotelManagenemt\HotelManagement.BUS\bin\Debug\HotelManagement.DAL.dll.config
+C:\Users\Kim Nghi\source\repos\DOAN-HotelManagenemt\HotelManagement.BUS\bin\Debug\EntityFramework.xml
+C:\Users\Kim Nghi\source\repos\DOAN-HotelManagenemt\HotelManagement.BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kim Nghi\source\repos\DOAN-HotelManagenemt\HotelManagement.BUS\obj\Debug\HotelManagement.BUS.csproj.AssemblyReference.cache
+C:\Users\Kim Nghi\source\repos\DOAN-HotelManagenemt\HotelManagement.BUS\obj\Debug\HotelManagement.BUS.csproj.CoreCompileInputs.cache
+C:\Users\Kim Nghi\source\repos\DOAN-HotelManagenemt\HotelManagement.BUS\obj\Debug\HotelMan.E3A000C2.Up2Date
+C:\Users\Kim Nghi\source\repos\DOAN-HotelManagenemt\HotelManagement.BUS\obj\Debug\HotelManagement.BUS.dll
+C:\Users\Kim Nghi\source\repos\DOAN-HotelManagenemt\HotelManagement.BUS\obj\Debug\HotelManagement.BUS.pdb

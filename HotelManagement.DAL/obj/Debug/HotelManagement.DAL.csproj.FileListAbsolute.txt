@@ -1,0 +1,12 @@
+C:\Users\Kim Nghi\source\repos\DOAN-HotelManagenemt\HotelManagement.DAL\bin\Debug\HotelManagement.DAL.dll.config
+C:\Users\Kim Nghi\source\repos\DOAN-HotelManagenemt\HotelManagement.DAL\bin\Debug\HotelManagement.DAL.dll
+C:\Users\Kim Nghi\source\repos\DOAN-HotelManagenemt\HotelManagement.DAL\bin\Debug\HotelManagement.DAL.pdb
+C:\Users\Kim Nghi\source\repos\DOAN-HotelManagenemt\HotelManagement.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Kim Nghi\source\repos\DOAN-HotelManagenemt\HotelManagement.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kim Nghi\source\repos\DOAN-HotelManagenemt\HotelManagement.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Kim Nghi\source\repos\DOAN-HotelManagenemt\HotelManagement.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kim Nghi\source\repos\DOAN-HotelManagenemt\HotelManagement.DAL\obj\Debug\HotelManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\Kim Nghi\source\repos\DOAN-HotelManagenemt\HotelManagement.DAL\obj\Debug\HotelManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Kim Nghi\source\repos\DOAN-HotelManagenemt\HotelManagement.DAL\obj\Debug\HotelMan.BF363B1D.Up2Date
+C:\Users\Kim Nghi\source\repos\DOAN-HotelManagenemt\HotelManagement.DAL\obj\Debug\HotelManagement.DAL.dll
+C:\Users\Kim Nghi\source\repos\DOAN-HotelManagenemt\HotelManagement.DAL\obj\Debug\HotelManagement.DAL.pdb
